@@ -1,0 +1,4 @@
+# dsh-workspace-explorer bundle patch: mounts this package as one plugin entry.
+- insert:
+    - id: workspace-explorer
+      name: dsh-workspace-explorer
